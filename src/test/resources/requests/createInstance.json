@@ -1,0 +1,54 @@
+{
+  "instanceId": null,
+  "productType": "договор",
+  "productCode": "03.012.002",
+  "registerType": "1",
+  "mdmCode": "15",
+  "contractNumber": "1234567890",
+  "contractDate": "2024-03-14",
+  "priority": 0,
+  "interestRatePenalty": 0,
+  "minimalBalance": 0,
+  "thresholdAmount": 0,
+  "accountingDetails": "string",
+  "rateType": "string",
+  "taxPercentageRate": 0,
+  "technicalOverdraftLimitAmount": 0,
+  "contractId": 1515,
+  "isoCurrencyCode": "800",
+  "urgencyCode": "00",
+  "additionalPropertiesVip": [
+    {
+      "key": "string",
+      "value": "string",
+      "name": "string"
+    }
+  ],
+  "instanceArrangement": [
+    {
+      "generalAgreementId": "string",
+      "supplementaryAgreementId": "string",
+      "arrangementType": "string",
+      "shedulerJobId": 0,
+      "openingDate": "2024-03-14",
+      "closingDate": "2024-03-14",
+      "cancelDate": "2024-03-14",
+      "validityDuration": 0,
+      "cancellationReason": "string",
+      "status": "string",
+      "interestCalculationDate": "2024-03-14",
+      "interestRate": 0,
+      "coefficient": 0,
+      "coefficientAction": "string",
+      "minimumInterestRate": 0,
+      "minimumInterestRateCoefficient": 0,
+      "minimumInterestRateCoefficientAction": "string",
+      "maximalInterestRate": 0,
+      "maximalInterestRateCoefficient": 0,
+      "maximalInterestRateCoefficientAction": "string",
+      "number": "string"
+    }
+  ],
+  "referenceCode": 0,
+  "branchCode": "0022"
+}
